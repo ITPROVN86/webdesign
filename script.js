@@ -194,7 +194,7 @@ function debounce(func, wait) {
 
 // Countdown timer for registration deadline
 function initCountdown() {
-    const countdownDate = new Date('2026-01-12T23:59:59').getTime();
+    const countdownDate = new Date('2026-01-20T23:59:59').getTime();
 
     function updateCountdown() {
         const now = new Date().getTime();

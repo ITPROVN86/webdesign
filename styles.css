@@ -76,7 +76,7 @@ body {
 
 /* Hero Section */
 .hero {
-    height: 90vh;
+    height: 110vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -164,7 +164,7 @@ body {
       rgba(236, 72, 153, 0.65),
       rgba(168, 85, 247, 0.65)
     ),
-    url("Images/web-designer.jpg") center / cover no-repeat;
+    url("Images/webdesign.jpg") center / cover no-repeat;
     /*background-image: url("Images/web-designer.jpg");
     background-repeat: no-repeat;*/
 }
